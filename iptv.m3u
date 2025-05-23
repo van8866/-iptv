@@ -183,6 +183,10 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226362/1.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226363/1.m3u8
 #EXTINF:-1 group-title="陕西",西部电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226364/1.m3u8
+#EXTINF:-1 group-title="陕西",移动http://stream.snrtv.com/sxbc-yd-pwAER2.m3u8
+#EXTINF:-1 group-title="陕西",农林卫视http://stream.snrtv.com/sxbc-nl-eoKN68.m3u8
+#EXTINF:-1 group-title="陕西",银龄http://stream.snrtv.com/sxbc-3-fltvM3.m3u8
+#EXTINF:-1 group-title="陕西",秦腔http://stream.snrtv.com/sxbc-5-iqwJZ1.m3u8
 #EXTINF:-1 group-title="西安",新闻综合
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226366/1.m3u8
 #EXTINF:-1 group-title="西安",都市频道
