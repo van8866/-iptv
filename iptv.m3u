@@ -209,3 +209,9 @@ http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225969/index.m3u8
 https://hplayer1.juyun.tv/camera/140908134.m3u8
 #EXTINF:-1 group-title="榆林",文化旅游
 https://hplayer1.juyun.tv/camera/140909190.m3u8
+#EXTINF:-1 group-title="桂林",频道综合
+https://pull.gltvs.com/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188
+#EXTINF:-1 group-title="桂林",科教旅游
+https://pull.gltvs.com/live/glkj/playlist.m3u8?v=4282cdc9071e32fd382778e37d8bf172&t=2024816762
+#EXTINF:-1 group-title="桂林",公共频道
+https://pull.gltvs.com/live/glgg/playlist.m3u8?v=654a4f856ca8f4ea018b85acb77572e8&t=2024816762
