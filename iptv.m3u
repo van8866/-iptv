@@ -205,3 +205,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226370/1.m3u8
 http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225919/index.m3u8
 #EXTINF:-1 group-title="鄠邑",鄠邑2
 http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225969/index.m3u8
+#EXTINF:-1 group-title="榆林",榆林综合
+https://hplayer1.juyun.tv/camera/140908134.m3u8
+#EXTINF:-1 group-title="榆林",文化旅游
+https://hplayer1.juyun.tv/camera/140909190.m3u8
