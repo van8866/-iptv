@@ -215,3 +215,56 @@ https://pull.gltvs.com/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e657
 https://pull.gltvs.com/live/glkj/playlist.m3u8?v=4282cdc9071e32fd382778e37d8bf172&t=2024816762
 #EXTINF:-1 group-title="桂林",公共频道
 https://pull.gltvs.com/live/glgg/playlist.m3u8?v=654a4f856ca8f4ea018b85acb77572e8&t=2024816762
+#EXTINF:-1 group-title="动画",海绵宝宝
+http://zzy789.xyz/douyu1.php?id=3949681
+#EXTINF:-1 group-title="动画",名侦探柯南
+http://www.douzhicloud.site:35455/huya/30080236
+#EXTINF:-1 group-title="动画",喜羊羊与灰太狼
+http://www.douzhicloud.site:35455/huya/23865080
+#EXTINF:-1 group-title="动画",猫和老鼠
+https://live.iill.top/huya/11352879
+#EXTINF:-1 group-title="动画",七龙珠
+https://live.iill.top/huya/11601966
+#EXTINF:-1 group-title="动画",黑莓动画
+http://111.43.126.240:9003/hls/100/index.m3u8
+#EXTINF:-1 group-title="体育",精品体育
+http://111.43.126.240:9003/hls/89/index.m3u8
+#EXTINF:-1 group-title="体育",睛彩竞技
+http://39.134.65.106/PLTV/88888888/224/3221225897/1.m3u8?
+#EXTINF:-1 group-title="体育",五星体育
+http://180.165.27.97:7088/rtp/239.45.3.210:5140
+#EXTINF:-1 group-title="体育",劲爆体育
+http://183.237.95.108:9901/tsfile/live/1074_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="体育",广东体育
+https://stream1.freetv.fun/yan-dong-ti-yu-5.m3u8
+#EXTINF:-1 group-title="体育",纬来体育
+https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
+#EXTINF:-1 group-title="体育",WWE
+https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 group-title="体育",迪拜体育
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 group-title="体育",NBA
+http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
+#EXTINF:-1 group-title="体育",ESPN
+http://38.96.178.201:80/live/ESPNHD/index.m3u8
+#EXTINF:-1 group-title="求索",求索-科学
+http://39.134.65.106/PLTV/88888888/224/3221225728/1.m3u8?
+#EXTINF:-1 group-title="求索",求索-动物
+http://39.134.65.106/PLTV/88888888/224/3221225730/1.m3u8?
+#EXTINF:-1 group-title="求索",求索-生活
+http://39.134.65.106/PLTV/88888888/224/3221225715/1.m3u8?
+#EXTINF:-1 group-title="求索",求索-记录
+http://39.134.65.106/PLTV/88888888/224/3221225713/1.m3u8?
+#EXTINF:-1 group-title="求索",行星地球
+http://zzy789.xyz/douyu1.php?id=454867
+#EXTINF:-1 group-title="杂项",ipanda
+https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8
+#EXTINF:-1 group-title="杂项",Loupe
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+#EXTINF:-1 group-title="杂项",Fashion
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="杂项",苏州4K
+https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
+
+
+
