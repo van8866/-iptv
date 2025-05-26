@@ -274,5 +274,97 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 #EXTINF:-1 group-title="杂项",苏州4K
 https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 
+#EXTINF:-1 group-title="港澳台",TVBS亚洲
+http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 group-title="港澳台",东森超视34.5
+http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+#EXTINF:-1 group-title="港澳台",东森美洲卫视
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 group-title="港澳台",番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+#EXTINF:-1 group-title="港澳台",华语电视
+http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
+#EXTINF:-1 group-title="港澳台",面包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 group-title="港澳台",民视新闻台
+http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 group-title="港澳台",人间卫视
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+#EXTINF:-1 group-title="港澳台",人间卫视
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+#EXTINF:-1 group-title="港澳台",生命電視台
+http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
+#EXTINF:-1 group-title="港澳台",台视新闻 HD
+http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 group-title="港澳台",台湾番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+#EXTINF:-1 group-title="港澳台",天映经典
+http://210.210.155.37/qwr9ew/s/s31/index2.m3u8
+#EXTINF:-1 group-title="港澳台",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+#EXTINF:-1 group-title="港澳台",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",星光综合
+http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+#EXTINF:-1 group-title="港澳台",美亚C+
+http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+#EXTINF:-1 group-title="港澳台",TVBS新闻台
+http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 group-title="港澳台",HISTORY頻道
+http://37.27.111.214:8080/live/27/hls.m3u8
+#EXTINF:-1 group-title="港澳台",HITs電影頻道
+http://37.27.111.214:8080/live/28/hls.m3u8
+#EXTINF:-1 group-title="港澳台",華視
+rtmp://f13h.mine.nu/sat/tv111
+#EXTINF:-1 group-title="港澳台",民視
+rtmp://f13h.mine.nu/sat/tv051
+#EXTINF:-1 group-title="港澳台",台視
+rtmp://f13h.mine.nu/sat/tv071
+#EXTINF:-1 group-title="港澳台",東森超視
+rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1 group-title="港澳台",東森超視
+rtmp://f13h.mine.nu:1935/sat/tv331
+#EXTINF:-1 group-title="港澳台",SET三立戲劇
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 group-title="港澳台",緯來精采HD
+http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1 group-title="港澳台",動物星球
+http://61.221.215.25:8800/hls/57/index.m3u8
+#EXTINF:-1 group-title="港澳台",音樂欣賞2
+http://61.221.215.25:8800/hls/58/index.m3u8
+#EXTINF:-1 group-title="港澳台",緯來體育HD
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 group-title="港澳台",緯來育樂HD
+rtmp://f13h.mine.nu/sat/tv701
+#EXTINF:-1 group-title="港澳台",緯來日本HD
+rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1 group-title="港澳台",MoMoTV4K
+rtmp://f13h.mine.nu/sat/tv761
+#EXTINF:-1 group-title="港澳台",ELEVEN體育1
+rtmp://f13h.mine.nu/sat/tv731
+#EXTINF:-1 group-title="港澳台",ELEVEN體育2
+rtmp://f13h.mine.nu/sat/tv741
+#EXTINF:-1 group-title="港澳台",生命電視
+http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
+#EXTINF:-1 group-title="港澳台",緯來日本
+rtmp://f13h.mine.nu:1935/sat/tv771
+#EXTINF:-1 group-title="港澳台",緯來育樂
+rtmp://f13h.mine.nu:1935/sat/tv701
+#EXTINF:-1 group-title="港澳台",緯來體育
+rtmp://f13h.mine.nu:1935/sat/tv721
+#EXTINF:-1 group-title="港澳台",台視
+rtmp://f13h.mine.nu:1935/sat/tv071
+#EXTINF:-1 group-title="港澳台",中視
+rtmp://f13h.mine.nu:1935/sat/tv091
+#EXTINF:-1 group-title="港澳台",民視
+rtmp://f13h.mine.nu:1935/sat/tv051
+#EXTINF:-1 group-title="港澳台",華視
+rtmp://f13h.mine.nu:1935/sat/tv111
+#EXTINF:-1 group-title="港澳台",Mo綜合
+rtmp://f13h.mine.nu:1935/sat/tv761
+#EXTINF:-1 group-title="港澳台",蕃薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
+#EXTINF:-1 group-title="港澳台",中天娱乐
+http://61.221.215.25:8800/hls/47/index.m3u8
 
 
