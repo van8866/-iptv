@@ -170,11 +170,11 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226220/1.m3u8
 #EXTINF:-1 group-title="卫 视",安多卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
 #EXTINF:-1 group-title="香港",凤凰中文
-https://live.tvfix.org/live/fhzw/index.m3u8
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv
 #EXTINF:-1 group-title="香港",凤凰资讯
-https://live.tvfix.org/live/fwzx/index.m3u8
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzx.flv
 #EXTINF:-1 group-title="香港",凤凰香港
-https://live.tvfix.org/live/fwxg/index.m3u8
+http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 group-title="陕西",新闻资讯
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8
 #EXTINF:-1 group-title="陕西",都市青春
