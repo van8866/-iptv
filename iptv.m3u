@@ -2,11 +2,11 @@
 #EXTINF:-1 group-title="央视",CCTV1
 http://111.227.196.164:9901/tsfile/live/0001_1.m3u8
 #EXTINF:-1 group-title="央视",CCTV2
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8 
 #EXTINF:-1 group-title="央视",CCTV3
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV4
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226223/1.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV5+
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
 #EXTINF:-1 group-title="央视",CCTV5
