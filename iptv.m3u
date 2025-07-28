@@ -114,7 +114,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225763/1.m3u8
 #EXTINF:-1 group-title="卫 视",河南卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225767/1.m3u8
 #EXTINF:-1 group-title="卫 视",安徽卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226196/1.m3u8
+http://live.sxrtv.com/iptv/ahws.m3u8
 #EXTINF:-1 group-title="卫 视",湖北卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226206/1.m3u8
 #EXTINF:-1 group-title="卫 视",湖南卫视
@@ -126,9 +126,9 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225800/1.m3u8
 #EXTINF:-1 group-title="卫 视",浙江卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225798/1.m3u8
 #EXTINF:-1 group-title="卫 视",东方卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226217/1.m3u8
+https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
 #EXTINF:-1 group-title="卫 视",广东卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226216/1.m3u8
+https://live.sxrtv.com/iptv/gdws.flv
 #EXTINF:-1 group-title="卫 视",广西卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225770/1.m3u8
 #EXTINF:-1 group-title="卫 视",贵州卫视
@@ -150,7 +150,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225768/1.m3u8
 #EXTINF:-1 group-title="卫 视",重庆卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226202/1.m3u8
 #EXTINF:-1 group-title="卫 视",陕西卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226458/1.m3u8
+http://stream.snrtv.com/sxbc-star-JLQRW2.m3u8
 #EXTINF:-1 group-title="卫 视",东南卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225766/1.m3u8
 #EXTINF:-1 group-title="卫 视",深圳卫视
